@@ -5,6 +5,9 @@ print("Hello, \nThis is a new line print!!")
 print("Hello,", "This", "is", "a", "multi argument", "print!!")
 
 # special arguments in print
+# keyword argument
 
 print("Hello", end=", ")
 print("This is a new line print!!")
+
+print("Hello,", "This", "is", "a", "multi argument", "print!!", sep=" - ")
