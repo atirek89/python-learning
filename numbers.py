@@ -29,3 +29,19 @@ print(2 + 10 * 10 + 3)
 print((2+10) * (10+3))
 
 print("floating point accuracy:", 0.1+0.2-0.3)
+
+# absolute value
+my_num = -5
+print(abs(my_num))
+
+# power
+print(pow(6,4))
+
+# max
+print(max(6,4))
+
+# min
+print(min(6,4))
+
+# round
+print(round(5.7))
