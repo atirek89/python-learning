@@ -11,3 +11,7 @@ print("Hello", end=", ")
 print("This is a new line print!!")
 
 print("Hello,", "This", "is", "a", "multi argument", "print!!", sep=" - ")
+
+print("Hello" + " " "future" + " " "python!")
+
+print("Hello \"Python\" world")
