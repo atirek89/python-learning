@@ -14,3 +14,8 @@ print(lists[:])
 lists[5] = "New Str"
 print(type(lists[5]))
 print(lists)
+
+print("Deep" in lists)
+
+for item in lists:
+    print(item)
